@@ -1,0 +1,47 @@
+body {
+    
+    /* margin: 30px 300px 30px 300px; */
+    font-family: Arial, "MS Trebuchet", sans-serif; 
+    font-size: 150%;
+    width: 75%;
+}
+
+h1,h2{
+    border-bottom-style: solid; 
+    margin: 0px 25px 30px 0px;
+    padding: 10px;
+
+}
+
+
+h1{
+    color: black;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+h2{
+    color:red;
+}
+
+table,th,td{
+    width: 80%;
+   
+}
+
+.horario-dias{
+    background-color: #009B8B;
+}
+
+.dias{
+   
+    border:none;
+}
+ 
+.impar{
+    background-color:#48D1CC;
+}
+
+.par{
+    background-color: #7FFFD4;
+}
+
